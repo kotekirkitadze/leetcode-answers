@@ -1,0 +1,23 @@
+{
+	"name": "leetcode-answers",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon playground"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kotekirkitadze/leetcode-answers.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kotekirkitadze/leetcode-answers/issues"
+	},
+	"homepage": "https://github.com/kotekirkitadze/leetcode-answers#readme",
+	"dependencies": {
+		"nodemon": "^2.0.16"
+	}
+}
